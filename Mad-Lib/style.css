@@ -1,0 +1,36 @@
+html{
+    background-color: deepskyblue;
+}
+
+body{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    text-align: left;
+    padding: 100px;  
+    
+}
+h1{
+    font-size: 35px;
+    color: blueviolet;
+}
+h2{
+    font-size: 30px;
+    color: mediumslateblue;
+}
+
+p, li{
+    font-size: 18px;
+
+}
+
+button{
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+button:hover{
+    border: 1px solid deepskyblue;
+}
+
+
